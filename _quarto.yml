@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+# for comments
 website:
   title: "josenino95.github.io"
   navbar:
