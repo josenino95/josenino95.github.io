@@ -1,12 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "josenino95.github.io"
+  title: "Jane Roe"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects and Publications
       - about.qmd
 
 format:
